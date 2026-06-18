@@ -1,5 +1,6 @@
 The Third Party used in this Development are :
 
 1. 'https://fonts.google.com/' for Fonts
-2. 'https://prebuiltui.com/' for Navbar Template 
+2. 'https://prebuiltui.com/' for Navbar Template and Form for Hero Section
 3. 'https://tailwindcss.com/' for Styling 
+4. 'https://clerk.com/' for Authentication 
